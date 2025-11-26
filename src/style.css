@@ -120,7 +120,7 @@ li:hover {
 }
 
 .Banner {
-  background: url("assets/bg-boost-desktop.svg") no-repeat center/cover;
+  background: url("/assets/bg-boost-desktop.svg") no-repeat center/cover;
   background-color: var(--purple-primary);
   height: 150px;
   display: flex;
@@ -404,7 +404,7 @@ li:hover {
 .Text-Area {
   position: relative;
   top: -25px;
-  background: url("assets/bg-shorten-desktop.svg") no-repeat center/cover;
+  background: url("/assets/bg-shorten-desktop.svg") no-repeat center/cover;
   background-color: var(--purple-primary);
   height: 100px;
   display: flex;
@@ -559,7 +559,7 @@ li:hover {
   }
 
   .Banner {
-    background: url("assets/bg-boost-mobile.svg") no-repeat center/cover;
+    background: url("/assets/bg-boost-mobile.svg") no-repeat center/cover;
     background-color: var(--purple-primary);
   }
 
